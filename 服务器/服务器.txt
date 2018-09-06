@@ -3,7 +3,7 @@ PHP运行环境（CentOS7.3 64位 |
  PHP5.4）
 
 公网IP： 112.126.85.204(公)
-
+   out.ccsc58.cc
 用户名： root 
 密码：ZjzlSS24680@$^)3b4#!oppp3!@
 
